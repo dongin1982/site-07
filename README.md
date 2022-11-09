@@ -5,3 +5,10 @@
 
 https://refactoring.guru/ko
 
+// 클라우드와 인공지능
+
+http://www.kocw.net/home/m/search/themeCourses.do
+
+// 유전공학
+
+http://www.kocw.net/home/m/search/kemView.do?kemId=152668
