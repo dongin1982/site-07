@@ -8,6 +8,10 @@ https://www.youtube.com/c/HanbitCoKr
 
 http://www.kocw.net/home/cview.do?mty=p&kemId=864194
 
+// R 데이터 분석 기초 강의
+
+https://youtu.be/P8OWF2ds3eU
+
 // 리팩터링과 디자인 패턴
 
 https://refactoring.guru/ko
