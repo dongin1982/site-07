@@ -24,6 +24,10 @@ http://www.kocw.net/home/m/search/kemView.do?kemId=152668
 
 https://www.youtube.com/channel/UC0QB6IOR9bDSGNWFKkxotNw/playlists
 
+// SuperBrain 열역학, 유체역학
+
+https://www.youtube.com/c/SuperBrainSB/playlists
+
 // UCF CRCV
 
 https://www.youtube.com/c/UCFCRCV/playlists
