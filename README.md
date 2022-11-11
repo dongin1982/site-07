@@ -12,6 +12,10 @@ http://www.kocw.net/home/cview.do?mty=p&kemId=864194
 
 https://youtu.be/P8OWF2ds3eU
 
+// 생물통계학
+
+http://www.kocw.net/home/cview.do?cid=7ac2fac3c3b2abb5
+
 // 리팩터링과 디자인 패턴
 
 https://refactoring.guru/ko
