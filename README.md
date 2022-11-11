@@ -1,6 +1,6 @@
 # 유용한 사이트들 
 
-// 한빛미디어
+// 한빛미디어 유튜브 강좌
 
 https://www.youtube.com/c/HanbitCoKr
 
