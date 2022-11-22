@@ -22,7 +22,11 @@ https://refactoring.guru/ko
 
 // 클라우드와 인공지능
 
-http://www.kocw.net/home/m/search/themeCourses.do
+http://www.kocw.or.kr/home/cview.do?mty=p&kemId=1380502&ar=relateCourse
+
+https://www.inflearn.com/course/aws-2
+
+http://www.kocw.net/home/cview.do?mty=p&kemId=1381578&ar=relateCourse
 
 // 유전공학
 
