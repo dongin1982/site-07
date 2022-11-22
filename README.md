@@ -1,8 +1,12 @@
-# 유용한 사이트들 
+# 유용한 공부 사이트들 
 
 // 유니스터디
 
 https://www.youtube.com/@unistudy_kor/playlists
+
+// 탑그레이드
+
+https://www.youtube.com/channel/UCoKZbldDESdlPalGy7ghB6w/playlists
 
 // 한빛미디어 유튜브 강좌
 
