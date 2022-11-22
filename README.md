@@ -1,5 +1,9 @@
 # 유용한 사이트들 
 
+// 유니스터디
+
+https://www.youtube.com/@unistudy_kor/playlists
+
 // 한빛미디어 유튜브 강좌
 
 https://www.youtube.com/c/HanbitCoKr
@@ -35,3 +39,28 @@ http://www.kocw.net/home/m/search/kemView.do?kemId=152668
 // 정밀의료전문교육
 
 https://www.youtube.com/channel/UC0QB6IOR9bDSGNWFKkxotNw/playlists
+
+// 열역학
+
+http://www.kocw.net/home/search/kemView.do?ar=relateCourse&kemId=434316
+
+http://kocw.net/home/cview.do?mty=p&kemId=1312262
+
+http://www.kocw.net/home/search/kemView.do?kemId=1205570
+
+http://www.kocw.net/home/cview.do?mty=p&kemId=1265709&ar=relateCourse
+
+// 공업열역학
+
+https://www.youtube.com/playlist?list=PLTNHIuDGOUfOkA0MKQufrJtpq9_StUiIA
+
+// 유체역학
+
+http://www.kocw.net/home/cview.do?mty=p&kemId=859532
+
+http://www.kocw.net/home/cview.do?mty=p&kemId=1176237
+
+http://www.kocw.net/home/cview.do?cid=69b49c3a351621e5
+
+http://www.kocw.net/home/cview.do?cid=69b49c3a351621e5
+
