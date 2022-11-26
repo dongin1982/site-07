@@ -16,6 +16,23 @@ https://www.youtube.com/channel/UCoKZbldDESdlPalGy7ghB6w/playlists
 
 https://www.youtube.com/c/HanbitCoKr
 
+// 아주대 OCW
+
+http://ocw.ajou.ac.kr/?cat=4
+
+// 울산대 OCW
+
+http://ocw.ulsan.ac.kr/CourseList.aspx
+
+// 서강대 OCW
+
+http://ocw.sogang.ac.kr/courses/main?cate_02=34&cate_type=depart&classYear=&semester=&profSeq=
+
+// 서울대 OCW
+
+https://ocw.snu.ac.kr/course
+
+
 // (R을 이용한)통계학입문
 
 http://www.kocw.net/home/cview.do?mty=p&kemId=864194
