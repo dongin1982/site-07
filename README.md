@@ -65,6 +65,10 @@ http://www.kocw.net/home/m/search/kemView.do?kemId=152668
 
 https://www.youtube.com/channel/UC0QB6IOR9bDSGNWFKkxotNw/playlists
 
+// KOCW 물리학
+
+http://www.kocw.net/home/search/search.do?query=%EB%AC%BC%EB%A6%AC%ED%95%99
+
 // 열역학
 
 http://www.kocw.net/home/search/kemView.do?ar=relateCourse&kemId=434316
