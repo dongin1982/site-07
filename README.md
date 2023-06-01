@@ -51,6 +51,8 @@ https://refactoring.guru/ko
 
 // 클라우드와 인공지능
 
+https://github.com/Azure // 에저
+
 http://www.kocw.or.kr/home/cview.do?mty=p&kemId=1380502&ar=relateCourse
 
 https://www.inflearn.com/course/aws-2
