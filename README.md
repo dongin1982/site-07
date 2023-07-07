@@ -95,3 +95,8 @@ http://www.kocw.net/home/cview.do?cid=69b49c3a351621e5
 
 http://www.kocw.net/home/cview.do?cid=69b49c3a351621e5
 
+// 소프트웨어분야 영어듣기
+
+https://www.youtube.com/@GoogleDevelopers/playlists
+
+https://learn.microsoft.com/en-us/shows/browse
