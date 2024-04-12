@@ -93,6 +93,10 @@ http://www.kocw.net/home/cview.do?mty=p&kemId=1176237
 
 http://www.kocw.net/home/cview.do?cid=69b49c3a351621e5
 
+// 세계사
+
+https://www.youtube.com/@robinshistoricalrecords6316/playlists
+
 http://www.kocw.net/home/cview.do?cid=69b49c3a351621e5
 
 // 소프트웨어분야 영어듣기
